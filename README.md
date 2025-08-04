@@ -34,4 +34,5 @@ This repository is maintained for educational and non-commercial use. Attributio
 ## Author
 
 Muhammad Maaz  
-GitHub: [@your-username](https://github.com/your-username)
+GitHub: [@your-username](https://github.com/muhammadmaaz724)
+
